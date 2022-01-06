@@ -1,0 +1,134 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+body{
+    font-family: 'Merriweather', serif;
+
+}
+h1{
+    font-size: 40px;
+    
+}
+.color-change{
+    color: orange;
+}
+section{
+    display: flex;
+    
+}
+.title{
+    border-left: 3px solid red  ;
+    padding-left: 10px;
+
+}
+.half-width{
+    width: 50%;
+    padding-left: 3%;
+    padding-top: 5%;
+}
+.half-width img{
+    width: 80%;
+}
+.link-button{
+    text-decoration: none;
+    background-image: linear-gradient(coral,tomato);
+    color: white;
+    padding: 10px 25px;
+    border-radius: 5px;
+}
+h3{
+    padding-top:5%;
+    font-weight: 400;
+    font-size: 17px;
+}
+.center{
+    margin-top:60px;
+    text-align:center;
+    margin-bottom: 1px;
+}
+.main-class{
+    width: 90%;
+    display: flex;
+    justify-content: space-around;
+    margin: auto;
+}
+.width{
+    width: 30%;
+    padding:20px;
+    margin: 10px;
+border-radius: 5px;
+    
+}
+p{
+    padding-top: 5%;
+}
+.width img{
+    width: 100px;
+}
+.width p{
+    margin-top: 40px;
+    font-size: 16px;
+    color: rgba(0, 0, 0, 0.664);
+line-height: 2.1;
+}
+.bg-1{
+    background-color:cyan;
+    
+}
+.bg-2{
+    background-color:paleturquoise;
+}
+.bg-3{
+    background-color:tan;
+}
+.main-class{
+    display: flex;
+    margin-top: 95px;
+    align-items: center;
+    
+}
+.img{
+    width: 50%;
+}
+.text{
+    width: 50%;
+}
+.img img{
+    width: 80%;
+}
+
+.lock{
+    width: 80%;
+}
+.community-section{
+    width: 90%;
+    display: flex;
+    align-items: center;
+    margin:60px auto;
+}
+.Community-img img{
+     width: 70%;
+}
+
+.Community-text{
+    width: 50%;
+}
+
+.Community-img{
+    width: 50%;
+}
+
+
+.footer-design{
+    background-color: black;
+    padding-left: 10%;
+    padding-right: 10%;
+    margin-left: 5%;
+    margin-right: 5%;
+    color: white;
+    text-align: center;
+    font-size: 13px;
+}
+
